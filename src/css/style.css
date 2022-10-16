@@ -105,6 +105,10 @@ body {
   padding-right: 15px;
 }
 
+p {
+  margin-bottom: 15px;
+}
+
 span {
   color: #d35e9e;
 }
